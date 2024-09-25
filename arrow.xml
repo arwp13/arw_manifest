@@ -201,7 +201,7 @@
   <project path="system/media" name="android_system_media" remote="arrow" />
   <project path="system/qcom" name="android_system_qcom" remote="arrow" />
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="arrow" />
-  <project path="system/security" name="android_system_security" remote="arrow" />
+  <project path="system/security" name="android_system_security" remote="arrow-f" />
   <project path="system/libhidl" name="android_system_libhidl" remote="arrow" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="arrow-f" />
   <project path="system/update_engine" name="android_system_update_engine" remote="arrow" />
